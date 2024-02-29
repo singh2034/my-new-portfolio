@@ -18,7 +18,7 @@ const Experience = () => {
                     <div className="w-full">
                       <img
                         className="rounded-xl border-[3.7px] border-[#f76325] pointer-events-none select-none"
-                        src="/src/assets/internship-certificate.webp"
+                        src="./src/assets/internship-certificate.webp"
                         alt="moreslides-internship-certificate"
                       />
                     </div>

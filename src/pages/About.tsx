@@ -10,7 +10,7 @@ const About = () => {
                 height={280}
                 width={280}
                 className="rounded-2xl border shadow-xl text-center"
-                src="/src/assets/profile-img.webp"
+                src="./src/assets/profile-img.webp"
                 alt="profile-image-aayush-singh-web developer"
               />
             </div>

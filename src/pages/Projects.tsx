@@ -21,7 +21,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/moreslides.webp"
+                    src="./src/assets/moreslides.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -49,7 +49,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/morestudios.webp"
+                    src="./src/assets/morestudios.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -78,7 +78,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/diipl.webp"
+                    src="./src/assets/diipl.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -109,7 +109,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/we-digital-india.webp"
+                    src="./src/assets/we-digital-india.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -138,7 +138,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/coursry.webp"
+                    src="./src/assets/coursry.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -165,7 +165,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/growthkul.webp"
+                    src="./src/assets/growthkul.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -193,7 +193,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/birthday-planet.webp"
+                    src="./src/assets/birthday-planet.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
@@ -222,7 +222,7 @@ const Projects = () => {
                 <div>
                   <img
                     className="rounded-lg"
-                    src="/src/assets/cosmicade-media.webp"
+                    src="./src/assets/cosmicade-media.webp"
                     alt="moreslides-website-project-work"
                   />
                 </div>
