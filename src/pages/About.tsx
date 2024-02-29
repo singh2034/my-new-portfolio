@@ -1,3 +1,5 @@
+import myImage from "../assets/profile-img.webp"
+
 const About = () => {
   return (
     <main>
@@ -10,7 +12,7 @@ const About = () => {
                 height={280}
                 width={280}
                 className="rounded-2xl border shadow-xl text-center"
-                src="./src/assets/profile-img.webp"
+                src={myImage}
                 alt="profile-image-aayush-singh-web developer"
               />
             </div>
