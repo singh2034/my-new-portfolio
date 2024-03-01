@@ -3,7 +3,7 @@ import myImage from "../assets/profile-img.webp"
 const About = () => {
   return (
     <main>
-      <div>
+      <div id="about">
         <div className="py-10 sm:py-10 md:py-10 lg:py-20 container">
           <div className="flex flex-col sm:flex-col md:flex-col lg:flex-row xl:flex-row items-center justify-between gap-10">
             {/* left side */}

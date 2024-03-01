@@ -7,7 +7,7 @@ import resume from "../assets/Aayush_Singh.pdf"
 const Home = () => {
   return (
     <main>
-      <div className="bg-black">
+      <div id="home" className="bg-black">
         <div className="py-10 sm:py-10 md:py-10 lg:py-20 xl:py-20">
           <div className="text-white text-center font-medium">
             <div className="text-2xl sm:text-2xl md:text-2xl lg:text-4xl ">

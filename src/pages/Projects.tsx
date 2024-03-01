@@ -11,7 +11,7 @@ import cosmicade from "../assets/cosmicade-media.webp";
 const Projects = () => {
   return (
     <main>
-      <div className="bg-slate-200">
+      <div id="projects" className="bg-slate-200">
         <div className="container py-10 md:py-20">
           <div className="text-center space-y-5">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-medium underline underline-offset-4">

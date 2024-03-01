@@ -3,7 +3,7 @@ import { TechStackList } from "@/components/shared/TechList";
 const TechStack = () => {
   return (
     <main>
-      <div>
+      <div id="tech-stack">
         <div className="container py-10 md:py-20 sapce-y-5">
           <div className="space-y-5">
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-medium text-center underline underline-offset-4">

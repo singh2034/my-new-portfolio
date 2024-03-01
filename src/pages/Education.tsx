@@ -1,7 +1,7 @@
 const Education = () => {
   return (
     <main>
-      <div className="bg-slate-300">
+      <div id="certificates-and-education" className="bg-slate-300">
         <div className="container py-10 md:py-20">
           <div className="flex flex-col sm:flex-col md:flex-col lg:flex-row xl:flex-row justify-between gap-10">
             {/* left side */}
